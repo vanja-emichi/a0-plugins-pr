@@ -1,0 +1,9 @@
+title: BMAD Method
+description: Full BMAD Method Framework for Agent Zero. 20 specialist agents across 4 modules — BMM (full product lifecycle), BMB (BMAD toolchain builder), TEA (test architecture), and CIS (creative intelligence) — with workflow-driven project management and an interactive status dashboard.
+github: https://github.com/vanja-emichi/bmad_method
+tags:
+  - agents
+  - workflow
+  - automation
+  - development
+  - llm
